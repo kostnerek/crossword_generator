@@ -1,0 +1,24 @@
+{
+    "lines": {
+        "0": ["_", "t", "r", "e", "n", "D", "o", "w", "y", "_", "_", "_", "_", "_"],
+        "1": ["p", "e", "l", "i", "k", "A", "n", "y", "_", "_", "_", "_", "_", "_"],
+        "2": ["_", "_", "_", "_", "_", "M", "o", "c", "z", "o", "w", "y", "_", "_"],
+        "3": ["_", "_", "_", "_", "N", "I", "e", "m", "i", "a", "s", "z", "e", "k"],
+        "4": ["_", "_", "p", "u", "l", "A", "r", "d", "a", "_", "_", "_", "_", "_"],
+        "5": ["_", "_", "_", "p", "u", "N", "k", "o", "w", "i", "e", "c", "_", "_"]
+    },
+    "definitions": {
+        "0": "taki, który opiera się na trendzie, w którym główną rolę gra trend, który przez większość czasu porusza się w kierunku wyznaczonym przez trend.",
+        "1": "Pelecanidae – rodzina ptaków z rzędu pelikanowych (Pelecaniformes).",
+        "2": "związany z moczem, np. narządy moczowe.",
+        "3": "poufale, żartobliwie lub lekceważąco o Niemcu.",
+        "4": "mięso (zwykle tuszka w całości) pulardy.",
+        "5": "przedstawiciel subkultury związanej z muzyka punkową. "
+    },
+    "additional_data": {
+        "height": 6,
+        "width": 14,
+        "main_word": "damian",
+        "word_offset": 5
+    }
+}
