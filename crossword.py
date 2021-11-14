@@ -22,7 +22,7 @@ def get_correct_word(letter:str, pos:int)->dict:
 
 global data
 data=""
-with open('backend/wordDataBase.json', encoding='utf8') as json_file:
+with open('wordDataBase.json', encoding='utf8') as json_file:
     data = json.load(json_file)
 
 
